@@ -1,1 +1,9 @@
-{"ts":"bootstrap"}
+{
+  "ts": "2026-08-12T15:52:04+02:00",
+  "host": "Rafals-Mac-mini.local",
+  "free_gb": 109.0,
+  "serve_pid": "45598",
+  "serve_heartbeat": "2026-08-12T13:51:35.624119+00:00",
+  "tick_heartbeat": "2026-08-12T15:46:18.312646+02:00",
+  "head": "5278332"
+}
