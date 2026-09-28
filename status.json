@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-28T02:53:50Z",
-  "host": "Mac",
-  "free_gb": 46.8,
+  "ts": "2026-09-28T03:53:52Z",
+  "host": "Rafals-Mac-mini.local",
+  "free_gb": 46.7,
   "serve_pid": "57306",
-  "serve_heartbeat": "2026-09-28T02:53:16.153510+00:00",
-  "tick_heartbeat": "2026-09-28T04:46:28.902984+02:00",
+  "serve_heartbeat": "2026-09-28T03:53:16.399482+00:00",
+  "tick_heartbeat": "2026-09-28T05:46:33.412873+02:00",
   "head": "3f0cb01"
 }
