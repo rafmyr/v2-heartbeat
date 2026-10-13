@@ -1,9 +1,11 @@
 {
-  "ts": "2026-10-13T18:55:13Z",
+  "ts": "2026-10-13T19:55:15Z",
   "host": "MacMini",
-  "free_gb": 36.7,
-  "serve_pid": "78912",
-  "serve_heartbeat": "2026-10-13T18:54:47.945538+00:00",
-  "tick_heartbeat": "2026-10-13T20:48:07.729479+02:00",
-  "head": "ffb4bbf"
+  "free_gb": 35.8,
+  "serve_pid": "9462",
+  "serve_heartbeat": "2026-10-13T19:54:49.501875+00:00",
+  "tick_heartbeat": "2026-10-13T21:48:12.020830+02:00",
+  "head": "318b043",
+  "autodeploy_fatal_ts": "-",
+  "autodeploy_fatal_nowe": "0"
 }
