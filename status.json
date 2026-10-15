@@ -1,10 +1,10 @@
 {
-  "ts": "2026-10-15T06:07:01Z",
+  "ts": "2026-10-15T07:07:04Z",
   "host": "Rafals-Mac-mini.local",
   "free_gb": 31.8,
   "serve_pid": "79123",
-  "serve_heartbeat": "2026-10-15T06:06:45.603403+00:00",
-  "tick_heartbeat": "2026-10-15T08:06:17.370799+02:00",
+  "serve_heartbeat": "2026-10-15T07:06:50.192963+00:00",
+  "tick_heartbeat": "2026-10-15T09:06:22.291054+02:00",
   "head": "6c42b3c",
   "claude_cli": "2.1.294",
   "llm_dzis": {"wywolania": 1, "koszt_usd": 0.4317},
