@@ -1,15 +1,16 @@
 {
-  "ts": "2026-10-15T19:07:50Z",
+  "ts": "2026-10-15T20:07:53Z",
   "host": "MacMini",
-  "free_gb": 36.8,
-  "serve_pid": "12755",
-  "serve_heartbeat": "2026-10-15T19:07:37.102187+00:00",
-  "tick_heartbeat": "2026-10-15T21:00:57.069685+02:00",
-  "head": "e89084e",
+  "free_gb": 36.4,
+  "serve_pid": "13643",
+  "serve_heartbeat": "2026-10-15T20:07:37.085326+00:00",
+  "tick_heartbeat": "2026-10-15T22:01:01.553492+02:00",
+  "head": "a2ce776",
   "claude_cli": "2.1.294",
   "llm_dzis": {"wywolania": 6, "koszt_usd": 3.8813},
   "autodeploy_fatal_ts": "-",
   "autodeploy_fatal_nowe": "0",
   "alarm_p1_ts": "-",
-  "alarm_p1": "-"
+  "alarm_p1": "-",
+  "plisty_rozjazd": "0"
 }
