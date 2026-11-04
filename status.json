@@ -1,10 +1,10 @@
 {
-  "ts": "2026-11-04T05:05:05Z",
+  "ts": "2026-11-04T06:05:09Z",
   "host": "MacMini",
   "free_gb": 34.5,
   "serve_pid": "57182",
-  "serve_heartbeat": "2026-11-04T05:04:39.205351+00:00",
-  "tick_heartbeat": "2026-11-04T05:59:17.862933+01:00",
+  "serve_heartbeat": "2026-11-04T06:04:39.579689+00:00",
+  "tick_heartbeat": "2026-11-04T06:59:27.048861+01:00",
   "head": "628d7df",
   "claude_cli": "2.1.294",
   "llm_dzis": {"wywolania": 1, "koszt_usd": 0.3476},
